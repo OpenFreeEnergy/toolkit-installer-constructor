@@ -1,9 +1,9 @@
 {
-  "name": "openff-toolkit",
+  "name": "openfe",
   "channel": "conda-forge",
   "python": [
-    "3.7",
-    "3.6"
+    "3.9",
+    "3.8"
   ],
   "platform": [
     "osx-64",

@@ -14,8 +14,7 @@ specs:
   - conda
   - notebook
   - requests
-  - openff-toolkit
-  - smirnoff99Frosst
+  - openfe
   - python {{ cookiecutter.python }}*
   - pytest
 
