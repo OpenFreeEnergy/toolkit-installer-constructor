@@ -17,6 +17,8 @@ specs:
   - openfe
   - python {{ cookiecutter.python }}*
   - pytest
+  - MDAnalysis
+  - openmmforcefields
 
 post_install: post_install.sh  [unix]
 
