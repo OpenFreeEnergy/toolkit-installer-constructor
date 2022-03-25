@@ -19,7 +19,7 @@ specs:
   - pytest
   - MDAnalysis
   - openmmforcefields
-  - openmmtools
+  - openmmtools==0.21.2
   - nglview
 
 post_install: post_install.sh  [unix]
