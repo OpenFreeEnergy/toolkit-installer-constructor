@@ -17,10 +17,11 @@ specs:
   - openfe
   - python {{ cookiecutter.python }}*
   - pytest
-  - MDAnalysis
+  - MDAnalysis==2.1.0
   - openmmforcefields
   - openmmtools==0.21.2
   - nglview
+  - numpy==1.22.3
 
 post_install: post_install.sh  [unix]
 
